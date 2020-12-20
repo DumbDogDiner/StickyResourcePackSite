@@ -1,0 +1,4 @@
+wheel
+uwsgi
+Flask~=1.1.2
+dominate~=2.6.0

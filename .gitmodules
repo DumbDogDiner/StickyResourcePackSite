@@ -1,0 +1,3 @@
+[submodule "StixPack"]
+	path = StixPack
+	url = https://github.com/DumbDogDiner/StixPack.git
