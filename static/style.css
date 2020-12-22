@@ -1,3 +1,22 @@
 @charset "utf-8";
-/* CSS Document */
+#maintable {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 
+}
+
+.icon {
+    box-sizing: border-box;
+    background-color: darksalmon;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px 2px;
+    text-align: center;
+    margin: 1px;
+
+}
+
+.selected {
+    background-color: aquamarine;
+}
